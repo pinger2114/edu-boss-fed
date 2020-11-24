@@ -1,0 +1,12 @@
+<template>
+  <div>404 not found</div>
+</template>
+
+<script lang="ts">
+import Vue from 'vue'
+export default Vue.extend({
+  name: '404Error'
+})
+</script>
+
+<style lang="scss" scoped></style>
