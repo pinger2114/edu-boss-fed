@@ -5,6 +5,7 @@ import router from '@/router'
 import qs from 'qs'
 
 const request = axios.create({
+  baseURL: '/api'
   // 配置选项
 })
 
